@@ -8,7 +8,7 @@ To clone the repository I downloaded the github account and selected it from the
 #About me
 ## My personal hobbies are mainly anything involving computers from video games to hardware.
 ## My favorite websites are definetly the ones with good User interfaces. 
-###* [_Youtube_ has a plentiful amount content that i love to watch.](www.youtube.com)
-###* [Reddit is a great site for reasources](www.reddit.com)
+###* [_Youtube_ has a plentiful amount content that i love to watch including the latest news in the gaming industry.](www.youtube.com)
+###* [Reddit is a great site for reasources for computer hardware and malware removal.](www.reddit.com)
 
 
